@@ -1,0 +1,12 @@
+{
+    "name": "devgeniem/acf-medium-editor",
+    "type": "wordpress-plugin",
+    "license": "GPLv2 or later",
+    "description": "Configurable Medium Editor WYSIWYG Field for ACF5 Pro",
+    "authors": [
+      {
+        "name": "Hube2"
+      }
+    ]
+  }
+  
